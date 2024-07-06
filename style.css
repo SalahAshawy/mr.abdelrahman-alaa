@@ -1,5 +1,5 @@
 body{
-    background-image: url("http://127.0.0.1:8000/assets/img/login.png");
+    background-image: url("login.png");
     background-repeat: no-repeat;
     position: relative;
     /* background-size: cover;
@@ -28,7 +28,7 @@ body{
     font-size: larger;
 }
 .buttons{
-    margin-top: 280px;
+    margin-top: 180px;
 }
 
 /* buttons */
