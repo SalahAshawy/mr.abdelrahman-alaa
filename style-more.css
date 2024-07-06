@@ -1,0 +1,44 @@
+.about{
+    background-color: rgb(91, 86, 86);
+    color: azure;
+}
+
+.about-wrapper {
+    z-index: 3;
+  }
+  
+  .profile-img {
+    width: 16rem;
+    border-radius: 50%;
+    padding: 0.3rem;
+    border: 0.0625rem solid var(--primary-orange);
+  }
+  
+  .photo-wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .about-heading {
+    color: var(--primary-orange);
+    text-align: center;
+  }
+  .sal{
+    padding-right:6px;
+    padding-top:25px;
+    padding-bottom:10px;
+    font-size:20px;
+    font-family:serif;
+    font-weight:600;
+    text-align: center;
+   
+  }
+  .aa{
+    color:blue;
+    cursor:pointer;
+  }
+
+
+
+  
